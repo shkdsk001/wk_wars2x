@@ -5,4 +5,4 @@ The script is designed to be highly customizable, with a variety of settings and
 
 Whether you're a player looking to enhance your gameplay experience, or a developer looking to integrate advanced radar features into your own FiveM scripts and plugins, the FiveM Radar Script is a powerful and flexible tool that will help take your game to the next level.
 
------------------------EMJOY THE SCRIPT---------------------------------
+-----------------------ENJOY THE SCRIPT---------------------------------
